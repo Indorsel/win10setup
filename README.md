@@ -97,7 +97,7 @@ delete partition %номер_раздела_который_хотим_удали
 ### KMS_VL_ALL (by abbodi1406)
 Активирует все версии (volume) виндовс с 7 до 10:
 
-  -  Windows 8 / 8.1 / 10 (Все официальные издания , кроме Windows 10 S)
+  - Windows 8 / 8.1 / 10 (Все официальные издания , кроме Windows 10 S)
   - Windows 7 (Корпоративная /N/E, Профессиональная /N/E, Embedded Standard/POSReady/ThinPC)
   - Windows Server 2008 R2 / 2012 / 2012 R2 / 2016 / 2019
   - Office Volume 2010 / 2013 / 2016 / 2019
@@ -165,49 +165,8 @@ delete partition %номер_раздела_который_хотим_удали
 ---
 
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Для разблокировки сайтов без VPN и прокси, можно установить как службу.
-- [Deployment Tools](https://docs.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools)
-- [Старый гайд для optimize-offline](https://rentry.co/mdl-optimize-guide)
-- [Групповые политики для домашний версий](https://github.com/Fleex255/PolicyPlus)
-- [Возможность скачивания приложений стора без стора, устанавливать через повершелл](https://store.rg-adguard.net/)
-- [Powertoys](https://github.com/microsoft/PowerToys/releases)
 - [Windows Terminal](https://github.com/microsoft/terminal/releases)
-- [Icaros](https://shark007.net/forum/Thread-New-Release-3-3-0-RC-1?pid=689#pid689), [2](https://github.com/Xanashi/Icaros/releases)
-Для эскизов `.webm` файлов
-- [Office Retail-to-Volume](https://github.com/abbodi1406/C2R-R2V-AIO/blob/master/C2R-R2V-AIO.cmd)
-- [Мануал с GHacks по переносу лицензии с до-десяток на десятку](https://www-ghacks-net.translate.goog/2015/08/30/how-to-clean-install-windows-10-directly-without-upgrade/?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=ru)
 - [AMD Chipset](https://www.amd.com/en/support)
-- [Недооптимизатор WinAero Tweaker](https://winaero.com/downloads/winaerotweaker.zip)
-
-Образы, ключи и скрипты:
-- [Дамп разных ключей(возможно не работают)](https://jike.info/topic/2631/win-10-rtm-professional-retail-oem-mak?lang=en-US&page=1)
-- [Много очень полезных скриптов от abbodi1406](https://github.com/abbodi1406/BatUtil)
-- [BloatRemover(твикер) на свой страх и риск особо не рекомендую](https://github.com/Fs00/Win10BloatRemover)
-- [Разная информация об образов и т.к](https://massgrave.dev/readme-genuine-installation-media.html)
-
-Старый стиль win7:
-- [Старый калькулятор](https://winaero.com/get-calculator-from-windows-8-and-windows-7-in-windows-10/)
-- [Open-Shell(Старый Пуск)](https://github.com/Open-Shell/Open-Shell-Menu)
-- [Старый микшер](https://vynesimozg.com/kak-vernut-staryj-regulyator-gromkosti-v-windows-10/)
-- [Старое средство просмотра фотографий](https://remontka.pro/photo-viewer-windows-10/)
-- [OldNewExplorer Разные допольнительные настройки для проводника](https://www.majorgeeks.com/files/details/oldnewexplorer.html)
-
-Обновления:
-- [Пакеты обновлений](https://support.microsoft.com/en-us/topic/windows-10-update-history-857b8ccb-71e4-49e5-b3f6-7073197d98fb)
-- [Пакеты безопасности для корректного установление пакетов обновления ](https://msrc.microsoft.com/en-us/security-guidance/advisory/ADV990001)
-- [WHDownloader](https://forums.mydigitallife.net/threads/whdownloader-download.66243/), [2](https://www.mediafire.com/file/ootxxrbhw73wt4h/WHDownloader_0.0.2.4.zip/file), [3](https://drive.google.com/file/d/1hIZbPDjK4sTADQ0oFdEsAa7MRC-hQbAC/view?usp=sharing)
-- [Утилита для загрузки обновлений вручную "WSUS offline"](https://gitlab.com/wsusoffline/wsusoffline)
-
-Разное для лтсц:
-- [Стор на лтсц нужен аккаунт](https://forums.mydigitallife.net/threads/guide-add-store-to-windows-10-enterprises-sku-ltsb-ltsc.70741/)
-- [Стор на лтсц не обновлённый](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)
-- [Конвертация LTSC Evaluation на LTSC](https://github.com/victorlish/Convert_to_Windows_10_LTSC)
-
-Office 2010 и прочее:
-- [Office 2010](https://archive.org/details/MSO2010), [2](https://forums.mydigitallife.net/threads/office-2010-professional-plus-sp1-iso-volume-37-languages.56883/), [3](https://opendirectory.luzea.de/Enthousiast/Office/Office%20Pro%20Plus%202010%20SP1%20VL/), [4](https://cloud.mail.ru/public/9KV2/mu3iZVBgb/2010)
-- [Разное для офиса](https://github.com/YerongAI/Office-Tool)
-- [Старые ссылки на офис](https://pastebin.com/raw/PLhB7UnK)
-- [Исправление ошибки "копия офиса не легитимна"](https://massgrave.dev/office-license-is-not-genuine)
-- [Ohook активация](https://github.com/asdcorp/ohook)
 
 Всё для нвидий и амд драйверов видеокарты:
 - [Утилита для полного удаление через безопасный режим старых драйверов видеокарты](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
@@ -219,7 +178,7 @@ Office 2010 и прочее:
 >[Пикча c 4chan](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
 **Браузер:**
-[Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Ungoogled Chromium 1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) - [Ungoogled Chromium 2](https://github.com/macchrome/winchrome/releases)
+[Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Ungoogled Chromium 1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/)
 
 **Текстовый редактор:**
 [Notepad++](https://notepad-plus-plus.org/downloads/)
@@ -305,6 +264,7 @@ Office 2010 и прочее:
 7. **"Выберите тип установки"**
 - [x] **`Выборочная`**
 8. **"Где вы хотите установить Windows?":**
+
 Выбираем `Незанятое пространство`, или `удаляем старый раздел`. Если выбрать раздел со старой виндовс, она переместится в папку **Windows.old** со всеми файлами. Хочешь удалить [всё](https://github.com/shapkodebil/win10thread#хочу-перед-установкой-виндовс-очистить-диск-от-всего-и-ещё-поменять-структуру-раздела) то бы наверняка?
 > [!NOTE]  
 > **Ждёшь окончание установки.**
