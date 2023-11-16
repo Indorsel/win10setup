@@ -10,7 +10,6 @@
 ---
 - [Активация](#активация)
 - [Скачать](#скачать)
-- [Дампы хешей](#дампы-хешей)
 - [Как создать загрузочный образ?](#как-создать-загрузочный-образ)
 ---
 - [Полезное](#полезное)
@@ -79,7 +78,6 @@ delete partition %номер_раздела_который_хотим_удали
 
 ---
 
-
 ## Microsoft Office
 1. [tb.rg-adguard.net](https://tb.rg-adguard.net/public.php)
 	- Новый домен как актуальная альтернатива -> [files.rg-adguard.net](https://files.rg-adguard.net/version/5f2ad9c6-e111-76e8-06d1-56d44c136bae) - (Ищем `"Office"`), так как `tb.rg-adguard.net` в будущем не будет больше поддерживатся.
@@ -97,7 +95,6 @@ delete partition %номер_раздела_который_хотим_удали
 ![](img/adguardoffice.png)
 
 ---
-
 
 ## Активация
 
@@ -123,7 +120,6 @@ delete partition %номер_раздела_который_хотим_удали
 > **Бэкап ссылки: [1](https://yzyveojj6tqzqwe5muzglg.on.drv.tw/KVA/ReadMe36.html),[2](https://forums.mydigitallife.net/posts/838808/),[3](https://pastebin.com/cpdmr6HZ),[4](https://textuploader.com/1dav8?__cf_chl_f_tk=xv7P1o994cZm7_6NCeyYTJ5MzaenzWHwTZZGjRKbj3c-1658049006-0-gaNycGzNB-U) - [Сурцы](https://yzyveojj6tqzqwe5muzglg.on.drv.tw/KVA/ReadMe36.html#Source)**
 
 ---
-
 
 ## Ссылки
 
@@ -157,36 +153,14 @@ delete partition %номер_раздела_который_хотим_удали
 	- [Windows 10, version 22H2 (Updated Jan 2023)](https://files.rg-adguard.net/language/2035a908-5306-b748-0b90-cf987ca2dbae)
 Ждём пока вся платформа пропердится да и собственно сиды были.
 
-
-> [!WARNING]  
-> `Всегда сверяй с дампами хешей`
-
-
-
-
-## Дампы хешей
-
-- [MVS dump](https://awuctl.github.io/mvs/)
-	- **Нажимаем на "Select products" и вводим, к примеру, "Windows 10 22H2". Затем нажимаем клавишу Enter, чтобы выбрать нужную версию. Переходим к разделу "Generate summary files" и просто нажимаем "Generate". Теперь мы можем скачать файл со всеми хэшами.**
-
-- [sha1.rg-adguard](https://sha1.rg-adguard.net/)
-
-- [myvsdump](https://heidoc.net/php/myvsdump.php)
-
-
-
-
-## Как создать загрузочный образ?
+### Как создать загрузочный образ?
 
 - [Rufus](https://rufus.ie/): (свободное ПО) самый простой и удобный способ.
 	- Выбираешь схему раздела MBR для старых компьютеров без UEFI и GPT для новых. Можно нажать Alt+E, и флешка подойдет для обоих случаев, что удобно при установке на разные компьютеры. Однако будь осторожен и не устанавливай Windows в режиме Legacy на современном компьютере. Убедись, что в BIOS установлен режим UEFI Only.
 
 - [Ventoy](https://github.com/ventoy/Ventoy): Тебе не нужно повторно форматировать диск, просто скопируй образы на USB-накопитель и загрузись с него.
 
-
-
-
-## Полезное
+### Полезное
 >Всё на ваше усмотрение. Я добавляю ссылки, которые касаются операционной системы Windows. Если захотите, можете почитать и узнать об этом. Если нет, вы смело можете пройти мимо - ваша система будет работать как и прежде.
 Основные компоненты при новой установки виндовс:
 
@@ -248,16 +222,16 @@ Office 2010 и прочее:
 - [Утилита для установки только необходимых компонентов драйверов амд](https://github.com/GSDragoon/RadeonSoftwareSlimmer)
 
 ## ПО по вкусу
->[Пикча](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png) от *друзей* с форча
+>[Пикча c 4chan](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
 **Браузер:**
 [Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Firefox ESR](https://ftp.mozilla.org/pub/firefox/releases/) `Ищем с приставкой "esr\"` - [Ungoogled Chromium 1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) - [Ungoogled Chromium 2](https://github.com/macchrome/winchrome/releases)
 
 **Текстовый редактор:**
-[Notepad ++](https://notepad-plus-plus.org/downloads/) - [Vscodium](https://github.com/VSCodium/vscodium) - [Sublime Text](https://www.sublimetext.com/download) ([Делаем себе сами через hex бесконечную лицензию для sublime](https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47))
+[Notepad++](https://notepad-plus-plus.org/downloads/)
 
 **Торрент-клиент:**
-[qBittorent](https://www.qbittorrent.org/download.php) - [Transmission](https://transmissionbt.com/download/) - [Deluge](https://ftp.osuosl.org/pub/deluge/windows/?C=M;O=D) - [PicoTorrent](https://picotorrent.org/download)
+[qBittorent](https://www.qbittorrent.org/download.php)
 
 **Просмотр изображений:**
 [nomacs](https://github.com/nomacs/nomacs) - [jpegview](https://github.com/sylikc/jpegview) - [pictus](https://github.com/poppeman/Pictus/releases)
@@ -266,33 +240,25 @@ Office 2010 и прочее:
 [FFmpeg](https://ffmpeg.org/download.html#build-windows) - [Handbrake](https://handbrake.fr/downloads.php) - [StaxRip](https://github.com/staxrip/staxrip/releases)
 
 **Видеоплееры:**
-[MPC-HC](https://github.com/clsid2/mpc-hc/releases) - [mpv](https://sourceforge.net/projects/mpv-player-windows/files/) - [mpv.net](https://github.com/stax76/mpv.net/releases) - [VLC](https://www.videolan.org)
+[MPC-HC](https://github.com/clsid2/mpc-hc/releases)
 
 **Музыкальный Проигрыватель:**
-[Clementine](https://www.clementine-player.org/ru/downloads) - [foobar2000](https://www.foobar2000.org/download) - [Audacious](https://audacious-media-player.org/download) - [Aimp](https://www.aimp.ru/?do=download)
+[Aimp](https://www.aimp.ru/?do=download)
 
 **Запись Экрана:**
 [OBS](https://obsproject.com/ru/download)
 
-**Шифровка данных:**
-[Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
-
 **Управление файлами**
-[7zip](https://www.7-zip.org/download.html) - [fman](https://fman.io/download) - [Everything](https://www.voidtools.com/ru-ru/downloads/)
+[7zip](https://www.7-zip.org/download.html) - [fman](https://fman.io/download)
 
 **Просмотр PDF:**
 Твой браузер - [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 
 **Офис:**
-[Google Документы](https://docs.google.com/) - [Libre Office](https://www.libreoffice.org/download/download/?lang=ru)
-
-**Общение:**
-[Pidgin](https://www.pidgin.im) - [Thunderbird](https://www.thunderbird.net/ru/) - [Mumble](https://www.mumble.info/downloads/)
+[Google Документы](https://docs.google.com/)
 
 **Клинер:**
 [Bleachbit](https://www.bleachbit.org/download/windows)
-
-
 
 
 ## Установка Windows 10
