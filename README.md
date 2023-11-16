@@ -74,8 +74,6 @@ delete partition %номер_раздела_который_хотим_удали
 ### Хочу иметь журнал буфера обмена
 - [x] Комбинация `"Win+V"`
 
-![](img/cvbuffer.png)
-
 ---
 
 ## Microsoft Office
@@ -91,8 +89,6 @@ delete partition %номер_раздела_который_хотим_удали
 3. Двойной клик по файлу и потом setup.exe
 4. Пусть закончит установку
 5. Активация `только` с [**KMS_VL_ALL**](#kms_vl_all-by-abbodi1406) нажимаем `2`
-
-![](img/adguardoffice.png)
 
 ---
 
@@ -225,7 +221,7 @@ Office 2010 и прочее:
 >[Пикча c 4chan](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
 **Браузер:**
-[Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Firefox ESR](https://ftp.mozilla.org/pub/firefox/releases/) `Ищем с приставкой "esr\"` - [Ungoogled Chromium 1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) - [Ungoogled Chromium 2](https://github.com/macchrome/winchrome/releases)
+[Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Ungoogled Chromium 1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/) - [Ungoogled Chromium 2](https://github.com/macchrome/winchrome/releases)
 
 **Текстовый редактор:**
 [Notepad++](https://notepad-plus-plus.org/downloads/)
@@ -280,29 +276,18 @@ Office 2010 и прочее:
 1. Открываешь [ru-ru_windows_10](https://nnmclub.to/forum/viewtopic.php?t=1662987)
 2. Жмёшь на магнит
 3. Скачиваешь только  `ru-ru_windows_10_business_editions_version_22h2_updated_sep_2023_x64_dvd_3e14a3b2.iso` 
-
-![](img/nnmclubwiniso.png)
-
 ### Скачиваешь Ventoy
 1. Открываешь [Ventoy](https://github.com/ventoy/Ventoy/releases)
 2. Скачиваешь `"ventoy-1.0.XX-windows.zip"`
 3. Распаковываешь в любое удобное для тебя место (Распаковать можно например с [7zip](https://www.7-zip.org/download.html))
-
-![](img/ventoy.png)
-
 ### Запись образа на флешку
 1. Вставляешь флешку
 2. Открываешь `"Ventoy2Disk.exe"`
 3. `"Устройство"` выбираешь свою флешку
 4. Нажимаешь "Установить"
 5. Когда установка закончится просто перетягиваем наш образ `.iso` на нашу флешку с названием `"Ventoy"` (Например `(E:) Ventoy`)
-
-![](img/ventoycopy.png)
-
 ### Загрузка с флешки для дальнейший установки
 - [x] Берёшь гуглишь как на твоей **марки ноутбука/материнки** запустится с флешки и так далее в основном ищешь какую **кнопку** жать при запуске компа
-
-![](img/biosbutton.png)
 
 > [!NOTE]  
 > Может быть что угодно `"Del" - "F2" - "F8"` и т.к.
@@ -335,7 +320,7 @@ Office 2010 и прочее:
 
 7. **"Выберите тип установки"**
 - [x] **`Выборочная`**
- > [!IMPORTANT]  
+> [!IMPORTANT]  
 > Обязательно сделайте бэкап всех данных перед очисткой диска или раздела.
 
 ![](img/5windows.png)
