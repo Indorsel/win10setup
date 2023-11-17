@@ -108,8 +108,6 @@ delete partition %номер_раздела_который_хотим_удали
 Чуть ниже находится Media creation tool (средство установки).
 Если с Media Creation Tool на Windows 7 выдаёт ошибку `0x80072f8f-0x20000` то это значит что [протоколы TLS 1.1/TLS 1.2 не поддерживаются](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy) их можно включить с помощью официальной [утилитой от майкрософт](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi).
 
----
-
 - [Оригинальные образы Windows MSDN *NNM-Club*](https://nnmclub.to/forum/viewforum.php?f=504/). **ОБРАЗЫ ЛТСЦ СРАЗУ СНИЗУ**
 - [Оригинальные образы Windows MSDN *Rutracker*](https://rutracker.org/forum/tracker.php?f=2489&nm=Windows+10).
 - Оригинальные образы Windows MSDN *Rustorka*:
@@ -179,7 +177,6 @@ delete partition %номер_раздела_который_хотим_удали
 **Общение:**
 [Discord](https://discord.com/download)
 
----
 
 ### Microsoft Office
 1. [tb.rg-adguard.net](https://tb.rg-adguard.net/public.php)
