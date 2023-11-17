@@ -1,14 +1,13 @@
 Краткое содержание:
-- [Хочу "оптимизировать" мою систему](#хочу-оптимизировать-мою-систему)
-- [Хочу выставить на минимум телеметрию через групповые политики](#хочу-выставить-на-минимум-телеметрию-через-групповые-политики)
-- [Хочу удалить 'Onedrive'](#хочу-удалить-onedrive) 
-- [Хочу поставить/обновить драйвера системы](#хочу-поставитьобновить-драйвера-системы)
-- [Хочу перед установкой виндовс очистить диск от всего и ещё поменять структуру раздела](#хочу-перед-установкой-виндовс-очистить-диск-от-всего-и-ещё-поменять-структуру-раздела)
-- [Хочу иметь журнал буфера обмена](#хочу-иметь-журнал-буфера-обмена)
+- ["Оптимизация" системы](#хочу-оптимизировать-мою-систему)
+- [Выставление на минимум телеметрии через групповые политики](#хочу-выставить-на-минимум-телеметрию-через-групповые-политики)
+- [Удаление Onedrive](#хочу-удалить-onedrive) 
+- [Установка/обновление драйверов системы](#хочу-поставитьобновить-драйвера-системы)
+- [Полная очистка диска перед установкой системы](#хочу-перед-установкой-виндовс-очистить-диск-от-всего-и-ещё-поменять-структуру-раздела)
 ---
 - [Активация](#активация)
 - [Скачать](#скачать)
-- [Как создать загрузочный образ?](#как-создать-загрузочный-образ)
+- [Ссоздание загрузочного образа](#как-создать-загрузочный-образ)
 ---
 - [Полезное](#полезное)
 - [ПО по вкусу](#по-по-вкусу)
@@ -69,9 +68,6 @@ list partition
 delete partition %номер_раздела_который_хотим_удалить%
 ```
 Перезапуск с флэшки и устанавливаешь всё как обычно.
-
-### Хочу иметь журнал буфера обмена
-- [x] Комбинация `"Win+V"`
 
 ---
 
@@ -143,12 +139,12 @@ delete partition %номер_раздела_который_хотим_удали
 - [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
 ---
 - [Windows Terminal](https://github.com/microsoft/terminal/releases)
-- [EarTrumper](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?cid=eartrumpet.landing&hl=ru-ru&gl=US)
+- [EarTrumpet](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?cid=eartrumpet.landing&hl=ru-ru&gl=US)
 
 ---
 
 ### ПО по вкусу
->[Пикча c 4chan](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
+>[Пик с софтом](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
 **Браузер:**
 [Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/)
@@ -161,6 +157,9 @@ delete partition %номер_раздела_который_хотим_удали
 
 **Просмотр изображений:**
 [nomacs](https://github.com/nomacs/nomacs) - [jpegview](https://github.com/sylikc/jpegview)
+
+**Графический редактор:**
+[Paint.NET](https://paintnet.ru/download/)
 
 **Видео-Конвертер:**
 [FFmpeg](https://ffmpeg.org/download.html#build-windows) - [Handbrake](https://handbrake.fr/downloads.php)
@@ -178,10 +177,13 @@ delete partition %номер_раздела_который_хотим_удали
 [7zip](https://www.7-zip.org/download.html) - [fman](https://fman.io/download)
 
 **Просмотр PDF:**
-Твой браузер - [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 
 **Клинер:**
 [Bleachbit](https://www.bleachbit.org/download/windows)
+
+**Общение:**
+[Discord](https://discord.com/download)
 
 ---
 
