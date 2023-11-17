@@ -1,4 +1,4 @@
-#### Краткое содержание:
+### Краткое содержание:
 - ["Оптимизация" системы](#оптимизация-системы)
 - [Выставление на минимум телеметрии через групповые политики](#выставление-на-минимум-телеметрии-через-групповые-политики)
 - [Удаление Onedrive](#удаление-onedrive) 
@@ -129,53 +129,16 @@ delete partition %номер_раздела_который_хотим_удали
 ## ПО по вкусу
 >[Пик с софтом](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
-**Браузер:**
-[Firefox](https://www.mozilla.org/ru/firefox/new/)
-
-**Архиватор**
-[7zip](https://www.7-zip.org/download.html)
-
-**Файловый менеджер:**
-[Double Commander](https://sourceforge.net/p/doublecmd/wiki/Download/)
-
-**Торрент-клиент:**
-[qBittorent](https://www.qbittorrent.org/download.php)
-
-**Текстовый редактор:**
-[Notepad++](https://notepad-plus-plus.org/downloads/)
-
-**Видеоплеер:**
-[MPC-HC](https://github.com/clsid2/mpc-hc/releases) - [MPC-BE](https://github.com/Aleksoid1978/MPC-BE)
-
-**Музыкальный проигрыватель:**
-[Aimp](https://www.aimp.ru/?do=download)
-
-**Просмотр изображений:**
-[nomacs](https://github.com/nomacs/nomacs)
-
-**Графический редактор:**
-[Paint.NET](https://paintnet.ru/download/)
-
-**Просмотр PDF:**
-[SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
-
-**Общение:**
-[Discord](https://discord.com/download)
-
-**Клинер:**
-[Bleachbit](https://www.bleachbit.org/download/windows)
-
-**Микшер:**
-[EarTrumpet](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?cid=eartrumpet.landing&hl=ru-ru&gl=US)
-
-**Терминал:**
-[Windows Terminal](https://github.com/microsoft/terminal/releases)
-
-**Запись Экрана:**
-[OBS](https://obsproject.com/ru/download)
-
-**Видео-конвертер:**
-[FFmpeg](https://ffmpeg.org/download.html#build-windows) - [Handbrake](https://handbrake.fr/downloads.php)
+| Описание  | Программа | Описание | Программа |
+| --- | --- | --- | --- |
+| Браузер  | [Firefox](https://www.mozilla.org/ru/firefox/new/) - [Goole Chrome](https://www.google.com/intl/ru/chrome/)| Торрент-клиент | [qBittorent](https://www.qbittorrent.org/download.php) |
+| Файловый менеджер | [Double Commander](https://sourceforge.net/p/doublecmd/wiki/Download/) | Архиватор  | [7zip](https://www.7-zip.org/download.html) |
+| Видеоплеер | [MPC-HC](https://github.com/clsid2/mpc-hc/releases) - [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) | Аудиоплеер | [Aimp](https://www.aimp.ru/?do=download) | 
+| Просмотр изображений | [nomacs](https://github.com/nomacs/nomacs) | Графический редактор | [Paint.NET](https://paintnet.ru/download/) | 
+| Текстовый редактор | [Notepad++](https://notepad-plus-plus.org/downloads/) | Просмотр PDF | [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) |
+| Общение | [Discord](https://discord.com/download) | Клинер | [Bleachbit](https://www.bleachbit.org/download/windows) |
+| Микшер | [EarTrumpet](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?cid=eartrumpet.landing&hl=ru-ru&gl=US) | Терминал | [Windows Terminal](https://github.com/microsoft/terminal/releases) |
+| Запись Экрана | [OBS](https://obsproject.com/ru/download) | Видео-конвертер | [FFmpeg](https://ffmpeg.org/download.html#build-windows) - [Handbrake](https://handbrake.fr/downloads.php) |
 
 
 ## Microsoft Office
