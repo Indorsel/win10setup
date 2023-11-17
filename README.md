@@ -1,4 +1,4 @@
-Краткое содержание:
+#### Краткое содержание:
 - ["Оптимизация" системы](#оптимизация-системы)
 - [Выставление на минимум телеметрии через групповые политики](#выставление-на-минимум-телеметрии-через-групповые-политики)
 - [Удаление Onedrive](#удаление-onedrive) 
@@ -9,22 +9,22 @@
 - [Скачать](#скачать)
 - [Создание загрузочного образа](#создание-загрузочного-образа)
 ---
-- [Полезное](#полезное)
+- [Основные компоненты при новой установке виндовс](#основные-компоненты-при-новой-установке-виндовс)
 - [ПО по вкусу](#по-по-вкусу)
 - [Microsoft Office](#microsoft-office)
 ---
 - [Установка Windows 10](#установка-windows-10)
 
-## FAQ
+# FAQ
 
-### "Оптимизация" системы
+## "Оптимизация" системы
 Развлекайся, шизик:
 
 Это на уже установленную систему:
 - [privatezilla](https://github.com/builtbybel/privatezilla)
 - [privacy.sexy](https://privacy.sexy)
 
-### Выставление на минимум телеметрии через групповые политики
+## Выставление на минимум телеметрии через групповые политики
 > [!WARNING]  
 >  Это работает на всех редакциях кроме домашней. 
 
@@ -35,11 +35,11 @@
 
 - [x] Включаем пункт "Разрешить телеметрию" и выставляем параметр на 0.
 
-### Удаление Onedrive
+## Удаление Onedrive
 1. Открываем командную строку от имени администратора и вставляем:
 - [x] [Onedrive.bat](https://gist.githubusercontent.com/shapkodebil/3e36aeba6d87b919d51e55c00b7a535d/raw/395734b8169f7ddd338aacc788764d259a0e7e19/Onedrive.bat)
 
-### Установка/обновление драйверов
+## Установка/обновление драйверов
 - Центр обновлений
 - Сайт производителя материнки/ноутбука
 - [SDI Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
@@ -49,7 +49,7 @@
 > [!NOTE]  
 > Не путать [SDI Origin](https://sourceforge.net/projects/snappy-driver-installer-origin/) с sdi-tool.
 
-### Полная очистка диска перед установкой системы
+## Полная очистка диска перед установкой системы
 На экране начальной установки сразу после загрузки с флешки нажимаешь "Восстановление системы", ищи "Командная строка".
 Вводим:
 ```winbatch
@@ -71,9 +71,9 @@ delete partition %номер_раздела_который_хотим_удали
 
 ---
 
-## Активация
+# Активация
 
-### KMS_VL_ALL (by abbodi1406)
+## KMS_VL_ALL (by abbodi1406)
 Активирует все версии (volume) виндовс с 7 до 10:
 	- Windows 8 / 8.1 / 10 (Все официальные издания , кроме Windows 10 S)
 	- Windows 7 (Корпоративная /N/E, Профессиональная /N/E, Embedded Standard/POSReady/ThinPC)
@@ -93,9 +93,9 @@ delete partition %номер_раздела_который_хотим_удали
 
 ---
 
-## Ссылки
+# Ссылки
 
-### Скачать
+## Скачать
 - [Официальный сайт](https://www.microsoft.com/ru-ru/software-download/windows10/). Для скачивания ISO прямо с сайта нужно указать любой UA, кроме Windows:
 	- Запускаем любой хром по вкусу
 	- F12
@@ -117,25 +117,17 @@ delete partition %номер_раздела_который_хотим_удали
 	- [Windows 10, version 22H2 (Updated Jan 2023)](https://files.rg-adguard.net/language/2035a908-5306-b748-0b90-cf987ca2dbae)
 Ждём пока вся платформа пропердится да и собственно сиды были.
 
-### Создание загрузочного образа
+## Создание загрузочного образа
 - [Rufus](https://rufus.ie/): (свободное ПО) самый простой и удобный способ.
 	- Выбираешь схему раздела MBR для старых компьютеров без UEFI и GPT для новых. Можно нажать Alt+E, и флешка подойдет для обоих случаев, что удобно при установке на разные компьютеры. Однако будь осторожен и не устанавливай Windows в режиме Legacy на современном компьютере. Убедись, что в BIOS установлен режим UEFI Only.
 - [Ventoy](https://github.com/ventoy/Ventoy): Тебе не нужно повторно форматировать диск, просто скопируй образы на USB-накопитель и загрузись с него.
 
-### Полезное
->Всё на ваше усмотрение. Я добавляю ссылки, которые касаются операционной системы Windows. Если захотите, можете почитать и узнать об этом. Если нет, вы смело можете пройти мимо - ваша система будет работать как и прежде.
-
-Основные компоненты при новой установки виндовс:
+## Основные компоненты при новой установке виндовс
 - [Visual C++](https://github.com/abbodi1406/vcredist)
 - [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-offline-installer)
 - [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
----
-- [Windows Terminal](https://github.com/microsoft/terminal/releases)
-- [EarTrumpet](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?cid=eartrumpet.landing&hl=ru-ru&gl=US)
 
----
-
-### ПО по вкусу
+## ПО по вкусу
 >[Пик с софтом](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
 **Браузер:**
@@ -177,8 +169,14 @@ delete partition %номер_раздела_который_хотим_удали
 **Общение:**
 [Discord](https://discord.com/download)
 
+**Микшер:**
+[EarTrumpet](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?cid=eartrumpet.landing&hl=ru-ru&gl=US)
 
-### Microsoft Office
+**Терминал:**
+[Windows Terminal](https://github.com/microsoft/terminal/releases)
+
+
+## Microsoft Office
 1. [tb.rg-adguard.net](https://tb.rg-adguard.net/public.php)
 	- Новый домен как актуальная альтернатива -> [files.rg-adguard.net](https://files.rg-adguard.net/version/5f2ad9c6-e111-76e8-06d1-56d44c136bae) - (Ищем `"Office"`), так как `tb.rg-adguard.net` в будущем не будет больше поддерживатся.
 
@@ -194,7 +192,7 @@ delete partition %номер_раздела_который_хотим_удали
 
 ---
 
-## Установка Windows 10
+# Установка Windows 10
 
 > [!NOTE]  
 > [windows_for_retards](https://rentry.co/windows_for_retards)
