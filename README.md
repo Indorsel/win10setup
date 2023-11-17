@@ -154,8 +154,8 @@ delete partition %номер_раздела_который_хотим_удали
 
 ### Полезное
 >Всё на ваше усмотрение. Я добавляю ссылки, которые касаются операционной системы Windows. Если захотите, можете почитать и узнать об этом. Если нет, вы смело можете пройти мимо - ваша система будет работать как и прежде.
-Основные компоненты при новой установки виндовс:
 
+Основные компоненты при новой установки виндовс:
 - [Visual C++](https://github.com/abbodi1406/vcredist)
 - [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-offline-installer)
 - [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
@@ -167,9 +167,7 @@ delete partition %номер_раздела_который_хотим_удали
 - [AMD Chipset](https://www.amd.com/en/support)
 
 Всё для нвидий и амд драйверов видеокарты:
-- [Утилита для полного удаление через безопасный режим старых драйверов видеокарты](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
 - [Утилита для установки только необходимых компонентов драйверов нвидий](https://www.techpowerup.com/nvcleanstall/)
-- [Утилита для отключения Ansel Nvidia](https://nvidia.custhelp.com/app/answers/detail/a_id/4932)
 - [Утилита для установки только необходимых компонентов драйверов амд](https://github.com/GSDragoon/RadeonSoftwareSlimmer)
 
 ### ПО по вкусу
