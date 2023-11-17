@@ -8,7 +8,7 @@
   	- [Конфигурация (OOBE)](#конфигурация-oobe)
 - [ПО](#по)
 	- [Основные компоненты при новой установке виндовс](#основные-компоненты-при-новой-установке-виндовс)
-	- [ПО по вкусу](#по-по-вкусу)
+	- [ПО по вкусу](#полезное-по)
 	- [Microsoft Office](#microsoft-office)
 - [Активация](#активация)
 - [Продвинутый уровень](#продвинутый-уровень)
@@ -101,7 +101,7 @@
 - [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-offline-installer)
 - [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
 
-## ПО по вкусу
+## Полезное ПО
 >[Пик с софтом](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
 | Описание  | Программа | Описание | Программа |
@@ -134,6 +134,7 @@
 # Активация
 
 ## KMS_VL_ALL (by abbodi1406)
+
 Активирует все версии (volume) виндовс с 7 до 10:
 	- Windows 8 / 8.1 / 10 (Все официальные издания , кроме Windows 10 S)
 	- Windows 7 (Корпоративная /N/E, Профессиональная /N/E, Embedded Standard/POSReady/ThinPC)
@@ -200,5 +201,3 @@ list partition
 delete partition %номер_раздела_который_хотим_удалить%
 ```
 Перезапуск с флэшки и устанавливаешь всё как обычно.
-
----
