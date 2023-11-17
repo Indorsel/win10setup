@@ -186,7 +186,7 @@ delete partition %номер_раздела_который_хотим_удали
 [nomacs](https://github.com/nomacs/nomacs) - [jpegview](https://github.com/sylikc/jpegview)
 
 **Видео-Конвертер:**
-[FFmpeg](https://ffmpeg.org/download.html#build-windows)
+[FFmpeg](https://ffmpeg.org/download.html#build-windows) - [Handbrake](https://handbrake.fr/downloads.php)
 
 **Видеоплееры:**
 [MPC-HC](https://github.com/clsid2/mpc-hc/releases)
