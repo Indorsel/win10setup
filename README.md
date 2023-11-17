@@ -174,7 +174,7 @@ delete partition %номер_раздела_который_хотим_удали
 >[Пикча c 4chan](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
 **Браузер:**
-[Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Ungoogled Chromium 1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/)
+[Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/)
 
 **Текстовый редактор:**
 [Notepad++](https://notepad-plus-plus.org/downloads/)
@@ -183,10 +183,10 @@ delete partition %номер_раздела_который_хотим_удали
 [qBittorent](https://www.qbittorrent.org/download.php)
 
 **Просмотр изображений:**
-[nomacs](https://github.com/nomacs/nomacs) - [jpegview](https://github.com/sylikc/jpegview) - [pictus](https://github.com/poppeman/Pictus/releases)
+[nomacs](https://github.com/nomacs/nomacs) - [jpegview](https://github.com/sylikc/jpegview)
 
 **Видео-Конвертер:**
-[FFmpeg](https://ffmpeg.org/download.html#build-windows) - [Handbrake](https://handbrake.fr/downloads.php) - [StaxRip](https://github.com/staxrip/staxrip/releases)
+[FFmpeg](https://ffmpeg.org/download.html#build-windows)
 
 **Видеоплееры:**
 [MPC-HC](https://github.com/clsid2/mpc-hc/releases)
