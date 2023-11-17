@@ -81,11 +81,11 @@ delete partition %номер_раздела_который_хотим_удали
 	- Новый домен как актуальная альтернатива -> [files.rg-adguard.net](https://files.rg-adguard.net/version/5f2ad9c6-e111-76e8-06d1-56d44c136bae) - (Ищем `"Office"`), так как `tb.rg-adguard.net` в будущем не будет больше поддерживатся.
 
 3. Выбираешь:
-- Microsoft Office
-- Microsoft Office 2021
-- Office 2021 Professional Plus
-- %язык_который_нужен%
-- %единственное_имя_файла.img%
+	- Microsoft Office
+	- Microsoft Office 2021
+	- Office 2021 Professional Plus
+	- %язык_который_нужен%
+	- %единственное_имя_файла.img%
 3. Двойной клик по файлу и потом setup.exe
 4. Пусть закончит установку
 5. Активация `только` с [**KMS_VL_ALL**](#kms_vl_all-by-abbodi1406) нажимаем `2`
@@ -96,11 +96,10 @@ delete partition %номер_раздела_который_хотим_удали
 
 ### KMS_VL_ALL (by abbodi1406)
 Активирует все версии (volume) виндовс с 7 до 10:
-
-  - Windows 8 / 8.1 / 10 (Все официальные издания , кроме Windows 10 S)
-  - Windows 7 (Корпоративная /N/E, Профессиональная /N/E, Embedded Standard/POSReady/ThinPC)
-  - Windows Server 2008 R2 / 2012 / 2012 R2 / 2016 / 2019
-  - Office Volume 2010 / 2013 / 2016 / 2019
+	- Windows 8 / 8.1 / 10 (Все официальные издания , кроме Windows 10 S)
+	- Windows 7 (Корпоративная /N/E, Профессиональная /N/E, Embedded Standard/POSReady/ThinPC)
+	- Windows Server 2008 R2 / 2012 / 2012 R2 / 2016 / 2019
+	- Office Volume 2010 / 2013 / 2016 / 2019
 
 Не используется интернет, планировщик задач, сервисы, серверы или драйвера. Код полностью открытый, ссылки находятся в readme.html в архиве полной версии. Работает на всех редакциях, которые можно активировать с помощью KMS. Вы можете активировать только Office с помощью KMS. Можно интегрировать и то, и другое, если требуется HWID для Windows и активация для Office, или использовать KMS для всего.  
 :warning:  `Обязательно добавьте архив в исключения антивируса или временно отключите его`. 
@@ -134,8 +133,7 @@ delete partition %номер_раздела_который_хотим_удали
 
 ---
 
-- [Оригинальные образы Windows MSDN *NNM-Club*](https://nnmclub.to/forum/viewforum.php?f=504/).
- **ОБРАЗЫ ЛТСЦ СРАЗУ СНИЗУ**
+- [Оригинальные образы Windows MSDN *NNM-Club*](https://nnmclub.to/forum/viewforum.php?f=504/). **ОБРАЗЫ ЛТСЦ СРАЗУ СНИЗУ**
 - [Оригинальные образы Windows MSDN *Rutracker*](https://rutracker.org/forum/tracker.php?f=2489&nm=Windows+10).
 - Оригинальные образы Windows MSDN *Rustorka*:
 	- [22H2](https://rustorka.com/forum/viewtopic.php?t=284231)
