@@ -145,7 +145,7 @@ delete partition %номер_раздела_который_хотим_удали
 [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 **Видеоплеер:**
-[MPC-HC](https://github.com/clsid2/mpc-hc/releases)
+[MPC-HC](https://github.com/clsid2/mpc-hc/releases) - [MPC-BE](https://github.com/Aleksoid1978/MPC-BE)
 
 **Музыкальный проигрыватель:**
 [Aimp](https://www.aimp.ru/?do=download)
