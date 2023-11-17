@@ -6,14 +6,13 @@
 - [Хочу перед установкой виндовс очистить диск от всего и ещё поменять структуру раздела](#хочу-перед-установкой-виндовс-очистить-диск-от-всего-и-ещё-поменять-структуру-раздела)
 - [Хочу иметь журнал буфера обмена](#хочу-иметь-журнал-буфера-обмена)
 ---
-- [Microsoft Office](#microsoft-office)
----
 - [Активация](#активация)
 - [Скачать](#скачать)
 - [Как создать загрузочный образ?](#как-создать-загрузочный-образ)
 ---
 - [Полезное](#полезное)
 - [ПО по вкусу](#по-по-вкусу)
+- [Microsoft Office](#microsoft-office)
 ---
 - [Установка Windows 10](#установка-windows-10)
 
@@ -73,22 +72,6 @@ delete partition %номер_раздела_который_хотим_удали
 
 ### Хочу иметь журнал буфера обмена
 - [x] Комбинация `"Win+V"`
-
----
-
-## Microsoft Office
-1. [tb.rg-adguard.net](https://tb.rg-adguard.net/public.php)
-	- Новый домен как актуальная альтернатива -> [files.rg-adguard.net](https://files.rg-adguard.net/version/5f2ad9c6-e111-76e8-06d1-56d44c136bae) - (Ищем `"Office"`), так как `tb.rg-adguard.net` в будущем не будет больше поддерживатся.
-
-3. Выбираешь:
-	- Microsoft Office
-	- Microsoft Office 2021
-	- Office 2021 Professional Plus
-	- %язык_который_нужен%
-	- %единственное_имя_файла.img%
-3. Двойной клик по файлу и потом setup.exe
-4. Пусть закончит установку
-5. Активация `только` с [**KMS_VL_ALL**](#kms_vl_all-by-abbodi1406) нажимаем `2`
 
 ---
 
@@ -209,6 +192,23 @@ delete partition %номер_раздела_который_хотим_удали
 **Клинер:**
 [Bleachbit](https://www.bleachbit.org/download/windows)
 
+---
+
+### Microsoft Office
+1. [tb.rg-adguard.net](https://tb.rg-adguard.net/public.php)
+	- Новый домен как актуальная альтернатива -> [files.rg-adguard.net](https://files.rg-adguard.net/version/5f2ad9c6-e111-76e8-06d1-56d44c136bae) - (Ищем `"Office"`), так как `tb.rg-adguard.net` в будущем не будет больше поддерживатся.
+
+3. Выбираешь:
+	- Microsoft Office
+	- Microsoft Office 2021
+	- Office 2021 Professional Plus
+	- %язык_который_нужен%
+	- %единственное_имя_файла.img%
+3. Двойной клик по файлу и потом setup.exe
+4. Пусть закончит установку
+5. Активация `только` с [**KMS_VL_ALL**](#kms_vl_all-by-abbodi1406) нажимаем `2`
+
+---
 
 ## Установка Windows 10
 
