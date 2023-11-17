@@ -130,49 +130,52 @@ delete partition %номер_раздела_который_хотим_удали
 >[Пик с софтом](https://s1.desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
 
 **Браузер:**
-[Firefox](https://ftp.mozilla.org/pub/firefox/releases/) `10x.x.x\` - [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/)
+[Firefox](https://www.mozilla.org/ru/firefox/new/)
 
-**Текстовый редактор:**
-[Notepad++](https://notepad-plus-plus.org/downloads/)
+**Архиватор**
+[7zip](https://www.7-zip.org/download.html)
+
+**Файловый менеджер:**
+[Double Commander](https://sourceforge.net/p/doublecmd/wiki/Download/)
 
 **Торрент-клиент:**
 [qBittorent](https://www.qbittorrent.org/download.php)
 
+**Текстовый редактор:**
+[Notepad++](https://notepad-plus-plus.org/downloads/)
+
+**Видеоплеер:**
+[MPC-HC](https://github.com/clsid2/mpc-hc/releases)
+
+**Музыкальный проигрыватель:**
+[Aimp](https://www.aimp.ru/?do=download)
+
 **Просмотр изображений:**
-[nomacs](https://github.com/nomacs/nomacs) - [jpegview](https://github.com/sylikc/jpegview)
+[nomacs](https://github.com/nomacs/nomacs)
 
 **Графический редактор:**
 [Paint.NET](https://paintnet.ru/download/)
 
-**Видео-Конвертер:**
-[FFmpeg](https://ffmpeg.org/download.html#build-windows) - [Handbrake](https://handbrake.fr/downloads.php)
-
-**Видеоплееры:**
-[MPC-HC](https://github.com/clsid2/mpc-hc/releases)
-
-**Музыкальный Проигрыватель:**
-[Aimp](https://www.aimp.ru/?do=download)
-
-**Запись Экрана:**
-[OBS](https://obsproject.com/ru/download)
-
-**Управление файлами**
-[7zip](https://www.7-zip.org/download.html) - [fman](https://fman.io/download)
-
 **Просмотр PDF:**
 [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 
-**Клинер:**
-[Bleachbit](https://www.bleachbit.org/download/windows)
-
 **Общение:**
 [Discord](https://discord.com/download)
+
+**Клинер:**
+[Bleachbit](https://www.bleachbit.org/download/windows)
 
 **Микшер:**
 [EarTrumpet](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?cid=eartrumpet.landing&hl=ru-ru&gl=US)
 
 **Терминал:**
 [Windows Terminal](https://github.com/microsoft/terminal/releases)
+
+**Запись Экрана:**
+[OBS](https://obsproject.com/ru/download)
+
+**Видео-конвертер:**
+[FFmpeg](https://ffmpeg.org/download.html#build-windows) - [Handbrake](https://handbrake.fr/downloads.php)
 
 
 ## Microsoft Office
